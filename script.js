@@ -49,8 +49,16 @@ document.getElementById("add").onclick = function() {
 }
 
 document.getElementById("equal").onclick = function() {
-    alert(intJoiner() + stack.pop() + intJoiner());
+    let numArr = [];
+    for (let i = 0; i < 2; i++) {
+        numArr.push(intJoiner());
     }
+    let sum = 0;
+    for (let i = 0; i < numArr.length; i++) {
+        sum += numArr[i];
+    }
+    console.log(numArr);
+}
 
 // Helper function to evaluate the expression
 let ops = ["+", "-", "*", "/"];
