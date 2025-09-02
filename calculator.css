@@ -1,0 +1,257 @@
+#num1 {
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    padding: 15px 32px;
+    border: rgb(255, 166, 0);
+    border-radius: 16px;
+    transition-duration: 0.4s;
+}
+
+#num1:hover {
+    background-color: white;
+    color: blue;
+}
+
+#num2 {
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    padding: 15px 32px;
+    border: rgb(255, 166, 0);
+    border-radius: 16px;
+    transition-duration: 0.4s;
+}
+
+#num2:hover {
+    background-color: white;
+    color: blue;
+}
+
+#num3 {
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    padding: 15px 32px;
+    border: rgb(255, 166, 0);
+    border-radius: 16px;
+    transition-duration: 0.4s;
+}
+
+#num3:hover {
+    background-color: white;
+    color: blue;
+}
+
+#num4 {
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    padding: 15px 32px;
+    border: rgb(255, 166, 0);
+    border-radius: 16px;
+    transition-duration: 0.4s;
+}
+
+#num4:hover {
+    background-color: white;
+    color: blue;
+}
+
+#num5 {
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    padding: 15px 32px;
+    border: rgb(255, 166, 0);
+    border-radius: 16px;
+    transition-duration: 0.4s;
+}
+
+#num5:hover {
+    background-color: white;
+    color: blue;
+}
+
+#num6 {
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    padding: 15px 32px;
+    border: rgb(255, 166, 0);
+    border-radius: 16px;
+    transition-duration: 0.4s;
+}
+
+#num6:hover {
+    background-color: white;
+    color: blue;
+}
+
+#num7 {
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    padding: 15px 32px;
+    border: rgb(255, 166, 0);
+    border-radius: 16px;
+    transition-duration: 0.4s;
+
+}
+
+#num7:hover {
+    background-color: white;
+    color: blue;
+}
+
+#num8 {
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    padding: 15px 32px;
+    border: rgb(255, 166, 0);
+    border-radius: 16px;
+    transition-duration: 0.4s;
+}
+
+#num8:hover {
+    background-color: white;
+    color: blue;
+}
+
+#num9 {
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    padding: 15px 32px;
+    border: rgb(255, 166, 0);
+    border-radius: 16px;
+    transition-duration: 0.4s;
+}
+
+#num9:hover {
+    background-color: white;
+    color: blue;
+}
+
+#num0 {
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    padding: 15px 32px;
+    border: rgb(255, 166, 0);
+    border-radius: 16px;
+    transition-duration: 0.4s;
+}
+
+#num0:hover {
+    background-color: white;
+    color: blue;
+}
+
+#add {
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    padding: 15px 32px;
+    border: rgb(255, 166, 0);
+    border-radius: 16px;
+    transition-duration: 0.4s;
+}
+
+#add:hover {
+    background-color: white;
+    color: blue;
+}
+
+#sub {
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    padding: 15px 32px;
+    border: rgb(255, 166, 0);
+    border-radius: 16px;
+    transition-duration: 0.4s;
+}
+
+#sub:hover {
+    background-color: white;
+    color: blue;
+}
+
+#mul {
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    padding: 15px 32px;
+    border: rgb(255, 166, 0);
+    border-radius: 16px;
+    transition-duration: 0.4s;
+}
+
+#mul:hover {
+    background-color: white;
+    color: blue;
+}
+
+#div {
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    padding: 15px 32px;
+    border: rgb(255, 166, 0);
+    border-radius: 16px;
+    transition-duration: 0.4s;
+}
+
+#div:hover {
+    background-color: white;
+    color: blue;
+}
+
+#equal {
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    padding: 15px 32px;
+    border: rgb(255, 166, 0);
+    border-radius: 16px;
+    transition-duration: 0.4s;
+}
+
+#equal:hover {
+    background-color: white;
+    color: blue;
+}
+
+#dot {
+    background-color: blue;
+    color: white;
+    font-size: 100px;
+    padding: 15px 32px;
+    border: rgb(255, 166, 0);
+    border-radius: 16px;
+    transition-duration: 0.4s;
+}
+#dot:hover {
+    background-color: white;
+    color: blue;
+}
+
+.buttons789 {
+    display: block;
+}
+
+.buttons456 {
+    display: block;
+}
+
+.operators {
+    float: left;
+}
+
+.allbuttons {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}

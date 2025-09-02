@@ -2,14 +2,42 @@
 <html>
   <head>
     <title>My First JS Page</title>
+    <link rel="stylesheet" href="calculator.css" />
   </head>
   <body>
     <h1 id="h1">Welcome to my calculator</h1>
-    <button id="num1">1</button>
-    <button id="num2">2</button>
-    <button id="add">+</button>
-    <button id="equal">=</button>
+  <div class="allbuttons">
 
+  <div class="buttons789">
+    <button id="num7">7</button>
+    <button id="num8">8</button>
+    <button id="num9">9</button>
+    <button id="add">+</button>
+  </div>
+
+    <div class="buttons456">
+    <button id="num6">6</button>
+    <button id="num5">5</button>
+    <button id="num4">4</button>
+    <button id="sub">-</button>
+  </div>
+
+    <div class="buttons123">
+    <button id="num3">3</button>
+    <button id="num2">2</button>
+    <button id="num1">1</button>
+    <button id="mul">*</button>
+  </div>
+
+    <div class="buttons0">
+    <button id="num0">0</button>
+    <button id="dot">.</button>
+    <button id="equal">=</button>
+    <button id="div">/</button>
+  </div>
+
+  </div>
+<div id="result">Result will appear here</div>
     <script src="script.js"></script>
   </body>
 </html>
